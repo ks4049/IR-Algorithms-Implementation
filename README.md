@@ -1,6 +1,7 @@
 # Knowledge Processing Technologies
 
 This repository contains all the lab work done for the course ISTE-612 under Professor Jai Kang at RIT, NY.
+Topics include internet middleware technologies, data and text analytics, and information visualization.
 
 ## Implementation of Information Retrieval algorithms
 
